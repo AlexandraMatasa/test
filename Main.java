@@ -43,5 +43,6 @@ public class Main {
             }
         }
         //** Comment on another branch
+        //Added a second comment on another branch
     }
 }
