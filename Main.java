@@ -31,6 +31,7 @@ public class Main {
             System.out.println("YAY");
             // more processing here
             // ...
+            ///Add another comment on this line
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         } finally {
